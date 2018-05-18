@@ -25,6 +25,8 @@
 #ifndef __BOPT_PARAMETERS_H__
 #define __BOPT_PARAMETERS_H__
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include <string.h>
 
 /* WINDOWS DLLs stuff */

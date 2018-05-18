@@ -20,6 +20,7 @@
 #ifndef __TRACE_UBLAS_HPP__
 #define __TRACE_UBLAS_HPP__
 
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/matrix_proxy.hpp>
 

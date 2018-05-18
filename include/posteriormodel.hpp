@@ -25,6 +25,8 @@
 #ifndef  _POSTERIORMODEL_HPP_
 #define  _POSTERIORMODEL_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include "prob_distribution.hpp"
 #include "dataset.hpp"
 #include "mean_functors.hpp"

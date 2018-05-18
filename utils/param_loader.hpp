@@ -26,6 +26,7 @@
 #ifndef  _PARAM_LOADER_HPP_
 #define  _PARAM_LOADER_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
 #include <fstream>
 #include <iostream>
 #include <string.h>

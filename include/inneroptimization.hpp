@@ -26,6 +26,8 @@
 #ifndef __INNEROPTIMIZATION_HPP__
 #define __INNEROPTIMIZATION_HPP__
 
+#include <boost/serialization/array_wrapper.hpp>
+
 //#include "dll_stuff.h"
 #include "optimizable.hpp"
 //#include "optimization.hpp"

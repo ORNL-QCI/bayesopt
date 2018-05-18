@@ -24,6 +24,7 @@
 #ifndef  _BAYESOPTAPI_HPP_
 #define  _BAYESOPTAPI_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
 #include "bayesoptbase.hpp"
 
 namespace bayesopt  {

@@ -26,6 +26,7 @@
 #ifndef  _BAYESOPTBASE_HPP_
 #define  _BAYESOPTBASE_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/scoped_ptr.hpp>
 #include <boost/random.hpp>
 #include <boost/numeric/ublas/vector.hpp>

@@ -21,11 +21,11 @@
 */
 
 #include <stdexcept>
+#include <boost/serialization/array_wrapper.hpp>
 #include "log.hpp"
 #include "parser.hpp"
 #include "ublas_extra.hpp"
 #include "kernel_functors.hpp"
-
 #include "kernels/kernel_atomic.hpp"
 #include "kernels/kernel_const.hpp"
 #include "kernels/kernel_linear.hpp"

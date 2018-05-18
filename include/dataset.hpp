@@ -26,6 +26,8 @@
 #ifndef __DATASET_HPP__
 #define __DATASET_HPP__
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include "log.hpp"
 #include "specialtypes.hpp"
 #include "ublas_extra.hpp"

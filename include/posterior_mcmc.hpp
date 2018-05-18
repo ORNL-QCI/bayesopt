@@ -26,6 +26,8 @@
 #ifndef  _POSTERIOR_MCMC_HPP_
 #define  _POSTERIOR_MCMC_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include <boost/ptr_container/ptr_vector.hpp>
 #include "criteria_functors.hpp"
 #include "posteriormodel.hpp"

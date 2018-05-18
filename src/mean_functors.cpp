@@ -1,3 +1,4 @@
+#include <boost/serialization/array_wrapper.hpp>
 #include "log.hpp"
 #include "parser.hpp"
 #include "ublas_extra.hpp"

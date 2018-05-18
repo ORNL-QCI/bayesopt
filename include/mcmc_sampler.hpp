@@ -25,6 +25,8 @@
 #ifndef  _MCMC_SAMPLER_HPP_
 #define  _MCMC_SAMPLER_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include <boost/scoped_ptr.hpp>
 #include "randgen.hpp"
 #include "optimizable.hpp"

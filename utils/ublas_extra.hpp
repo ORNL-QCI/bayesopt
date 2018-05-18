@@ -21,6 +21,8 @@
 #ifndef __UBLAS_EXTRA_HPP__
 #define __UBLAS_EXTRA_HPP__
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include <typeinfo>
 #include <boost/numeric/ublas/vector.hpp>
 

@@ -25,6 +25,7 @@
 #define  _FILEPARSER_HPP_
 
 #include <vector>
+#include <boost/serialization/array_wrapper.hpp>
 
 #include <string.h>
 

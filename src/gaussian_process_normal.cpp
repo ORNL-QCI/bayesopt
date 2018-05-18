@@ -21,6 +21,7 @@
 */
 
 #include <cstdlib>
+#include <boost/serialization/array_wrapper.hpp>
 #include <boost/math/special_functions/fpclassify.hpp>
 #include <boost/numeric/ublas/banded.hpp>
 #include "ublas_trace.hpp"

@@ -25,6 +25,8 @@
 #ifndef  _POSTERIOR_FIXED_HPP_
 #define  _POSTERIOR_FIXED_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include <boost/scoped_ptr.hpp>
 #include "inneroptimization.hpp"
 #include "criteria_functors.hpp"

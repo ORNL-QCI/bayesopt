@@ -25,6 +25,8 @@
 #ifndef  _GAUSSIAN_PROCESS_HPP_
 #define  _GAUSSIAN_PROCESS_HPP_
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include "gauss_distribution.hpp"
 #include "conditionalbayesprocess.hpp"
 

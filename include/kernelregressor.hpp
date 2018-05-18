@@ -26,6 +26,8 @@
 #ifndef __NONPARAMETRICPROCESS_HPP__
 #define __NONPARAMETRICPROCESS_HPP__
 
+#include <boost/serialization/array_wrapper.hpp>
+
 #include "ublas_cholesky.hpp"
 #include "nonparametricprocess.hpp"
 #include "kernel_functors.hpp"
